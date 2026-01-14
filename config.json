@@ -4,17 +4,17 @@
     "MAINTENANCE": false,
     "allowInbox": false,
     "BOTNAME": " 💢 ",
-    "AMDIN_NAME": "Lương Trường Khôi",
+    "AMDIN_NAME": "Đỗ Hùng",
     "keyRent": "Lunar",
-    "FACEBOOK_ADMIN": "",
-    "PREFIX": ".",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/DHUNG.TOM",
+    "PREFIX": "/",
     "box_admin": "",
     "ADMINBOT": [
-        "",
+        "100093913775506",
         ""
     ],
     "NDH": [
-        "",
+        "100093913775506",
         ""
     ],
     "autoCleanCache": {
